@@ -22,6 +22,4 @@ class FragmentStaticColorOne : Fragment() {
         }
         return v
     }
-
-
 }

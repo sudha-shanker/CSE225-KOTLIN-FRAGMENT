@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/activity_dynamic_fragment_data_example.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/activity_dynamic_fragment_list_example.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/activity_dynamic_fragment_orientation_example.xml" value="0.22826086956521738" />
         <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/activity_fragment_static_color_example.xml" value="0.25" />
         <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/activity_fragment_static_example.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_data_ex_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_data_ex_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_frag_list_ex_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_frag_list_ex_two.xml" value="0.11676798378926039" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_frag_orient_ex_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_dynamic_frag_orient_ex_two.xml" value="0.22826086956521738" />
         <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_static_color_one.xml" value="0.22826086956521738" />
         <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_static_color_two.xml" value="0.22826086956521738" />
         <entry key="..\:/Android/CSE225_KOTLIN_FRAGMENT/app/src/main/res/layout/fragment_static_one.xml" value="0.22826086956521738" />
